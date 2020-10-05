@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 <div id="head">
 <table width="1000"border="0" cellpadding="0"cellspacing="0">
 <tr>
-<td><img src="https://lh3.googleusercontent.com/proxy/MIf5JflyOuu3rdFOKWAo1SL2ZzB7mb8QIJapbYwL21WQ_ZkWDn5Q5rHcz92gbMHEeXantZdBZme1tV82TZvaNHTV9hXqmk8J40rN4NHa5To2-LcU41JuWhmK5Q1UpzSkdjtuT-pfHoQM"width="1000"height="300"></td>
+<td><img src="title.jpg"width="1000"height="300"></td>
 </tr>
 
 <tr>
@@ -34,4 +33,3 @@ photoshop作品
 
 </body>
 </html>
-
